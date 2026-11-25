@@ -1,3 +1,6 @@
 .ipynb_checkpoints/
 __pycache__/
 .DS_Store
+
+# instructor code (private: solutions, grader, Streamlit app) -- never publish
+code/
