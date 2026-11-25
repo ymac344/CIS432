@@ -2,7 +2,13 @@
 __pycache__/
 .DS_Store
 
-# instructor code (private: solutions, grader, Streamlit app) -- never publish
+# Safety net: instructor tooling lives in sibling folders, never inside this public repo.
+# If any of these ever end up here by mistake, they must not be committed.
 code/
+solutions/
+instructor-private/
+colab-grader/
+gradescope-trial/
 CLAUDE.md
 .claude/
+*conversation_log*.md
