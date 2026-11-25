@@ -10,6 +10,8 @@ Homework assignments for CIS432 (Simon Business School). Instructor: Yaron Shapo
 | 2 | Training and evaluating predictive models | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ymac344/CIS432/blob/main/notebooks/Homework-part2.ipynb) |
 | 3 | Linear and tree-based models | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ymac344/CIS432/blob/main/notebooks/Homework-part3.ipynb) |
 
+| test | Practice submission (automatic grading) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ymac344/CIS432/blob/main/notebooks/Test-assignment.ipynb) |
+
 ### How to work on an assignment
 
 1. Click the **Open in Colab** badge. Colab opens the notebook in your Google account.
