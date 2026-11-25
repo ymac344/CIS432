@@ -4,3 +4,5 @@ __pycache__/
 
 # instructor code (private: solutions, grader, Streamlit app) -- never publish
 code/
+CLAUDE.md
+.claude/
